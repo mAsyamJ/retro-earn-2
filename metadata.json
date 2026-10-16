@@ -1,0 +1,6 @@
+{
+  "name": "OPINION | Prediction Markets & Portfolio",
+  "description": "Decentralized opinion and prediction market trading platform with real-time portfolio tracking, positions, and market orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
